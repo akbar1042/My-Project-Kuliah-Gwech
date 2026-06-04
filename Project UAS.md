@@ -13,3 +13,9 @@ Implementasi OOP dalam projek:
 2. Instance: Instance dari Class Enemy adalah variabel enemy dan instance dari Class Player adalah variabel player
 3. Polymorphism: Class Enemy dan Player yang merupakan turunan dari Class Character merupakan salah satu penerapan Polymorphism yang mana method dari Class Enemy dan Class Player adalah berbeda
 4. Enkapsulasi: Atribut yang dimiliki Class Enemy maupun Player tidak bisa diakses oleh Class lain karna bersifat private
+
+Nama Kelompok 4:
+1. Tsaqif Fithrah Akbar (088)
+2. Muaz Zulkarnain (087)
+3. Ibrahem Jaudan (113)
+4. Wildan Thoatullahh (244)
